@@ -3,7 +3,7 @@ rem *Hello and welcome to Gooxpad 2.0. I hope you enjoy this program*
 rem *I  made. For better vision press Alt+Enter on your keyboard.   *
 rem *You are totally free to use this application how you want, but *
 rem *I wont take any  responsibility for what you do. This program  *
-rem *(1.0) was  made by  Ballena 20/10 -06. Version 2 was released  *
+rem *(1.0) was  made by  Erik W. 20/10 -06. Version 2 was released  *
 rem *10/2 -07.Visit my site: www.goox.se.                           *
 rem *                                                               *
 rem *Have a nice day!                                               *
@@ -305,7 +305,7 @@ echo *Hello and welcome to Gooxpad 2.0  %username%. I hope you enjoy
 echo *this program I made. For better vision press Alt+Enter on your*
 echo *keyboard. You are totally free to use this application how you*	
 echo *want, but I wont take any  responsibility for what you do.    *
-echo * This program (1.0) was  made by  Ballena 20/10 -06. Version  *
+echo * This program (1.0) was  made by  Erik W. 20/10 -06. Version  *
 echo *2 was released 10/2 -07. Visit my site: www.goox.se.          *
 echo *                                                              *
 echo *Have a nice day!                                              *
